@@ -1,1 +1,1 @@
-Wearable device for Temporary Memory loss Patients
+**Wearable device for Temporary Memory loss Patients**
